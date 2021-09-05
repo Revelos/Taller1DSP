@@ -1,6 +1,7 @@
 # Taller1DSP
 
 Alumno: Cristian Odir Lopez Revelo.
+
 Docente:  Ing. Alexander Campos
 
 Enlace para ejercicio
